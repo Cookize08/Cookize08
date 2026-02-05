@@ -1,6 +1,6 @@
 ### Hello, I'm Vinicios França 🖥️🖱️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicios-fran%C3%A7a-de-oliveira-991921322/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicios-f-oliveira)
 
 ![Cookize GitHub stats](https://github-readme-stats.vercel.app/api?username=Cookize08&show_icons=true&theme=gruvbox)
 
